@@ -1,0 +1,3 @@
+T:\code_proj\experimental\nodeFileUpload\obj\Debug\nodeFileUpload.njsprojAssemblyReference.cache
+T:\code_proj\experimental\nodeFileUpload\obj\Debug\nodeFileUpload.njsproj.CoreCompileInputs.cache
+T:\code_proj\experimental\nodeFileUpload\bin\Microsoft.NodejsTools.WebRole.dll
