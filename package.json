@@ -7,7 +7,7 @@
     "name": ""
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^8.0.1",
     "multer": "^1.4.1"
   }
